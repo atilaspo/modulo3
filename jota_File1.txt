@@ -1,5 +1,5 @@
-First file of many
+Primer archivo de muchos
 
-this should be changed for some conflicts
+Debería cambiarse en caso de conflicto
 
-
+I added one more line! (agus)
